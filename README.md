@@ -1,1 +1,1 @@
-# Password-Strength-Generator-
+# Password-Strength-Meter
